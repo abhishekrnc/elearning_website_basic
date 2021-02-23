@@ -5,3 +5,12 @@ nav a{
     padding: 20px;
     float: left;
 }
+
+nav {
+    background-color: black;
+    overflow: hidden;
+}
+
+nav a:hover {
+    color: tomato;
+}
